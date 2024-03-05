@@ -85,8 +85,6 @@
 	
 ![](https://komarev.com/ghpvc/?username=IrvanBola&style=flat-square)
 
-###### Some icons courtesy of [icons8](https://icons8.com/)
-
 </a>
 </div>
 
