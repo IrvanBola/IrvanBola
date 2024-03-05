@@ -9,7 +9,7 @@
 
 - Currently studying the 8th quarter of software development
 - Learning Web Development by Self
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- I’m currently open for an Intern or a new job opportunity
 
 <br><br>
 
