@@ -21,6 +21,8 @@
 <p align="center">
 
 - **Languages**:
+  - Spanish (Native)
+  - English 
    
 
 
