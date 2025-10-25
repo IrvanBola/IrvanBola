@@ -7,9 +7,9 @@
 
 <br>
 
-- Currently studying the 9th quarter of software development
-- Learning Web Development by Self
-- I’m currently open for an Intern or a new job opportunity
+- Software Engineer with expertise in modern web development technologies
+- Specialized in React, JavaScript, and responsive frontend solutions
+- Available for development projects and technical consulting
 
 <br><br>
 
