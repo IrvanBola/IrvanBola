@@ -7,10 +7,10 @@
 
 <br>
 
-- 💻 Full-Stack Developer con experiencia en React, React Native y Node.js.
-- 📱 Desarrollo de aplicaciones web y móviles escalables, integración de APIs y automatización con Python.
-- 🎓 Ingeniero en Desarrollo de Software y actualmente cursando Maestría en Tecnología Aplicada con enfoque en Inteligencia Artificial.
-- 🚀 Disponible para proyectos de desarrollo y consultoría técnica.
+- 💻 Full-Stack Developer with experience in React, React Native, and Node.js.
+- 📱 Building scalable web and mobile apps, integrating APIs, and automating processes with Python.
+- 🎓 Software Engineering graduate, currently pursuing a Master’s in Applied Technology with a focus on Artificial Intelligence.
+- 🚀 Available for development projects and technical consulting.
 
 <br><br>
 
@@ -27,16 +27,16 @@
   ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FFA500)
   ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFA500)
 
-- **Back-End & Herramientas**:
+- **Back-End & Tools**:
 
   ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=FFA500)
   ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFA500)
   ![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFA500)
   ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFA500)
 
-- **Idiomas**:
-  - Español (Nativo)
-  - Inglés
+- **Languages**:
+  - Spanish (Native)
+  - English
 
 <br><br>
 
@@ -48,16 +48,16 @@
 <br>
 
 <div align="center">
-   <table>
-     <tr>
+  <table>
+    <tr>
        <td align="center">
          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrvanBola&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
-       </td>
+        </td>
      </tr>
      <tr>
        <td align="center">
          <img src="https://github-readme-streak-stats.herokuapp.com/?user=IrvanBola&theme=dark&hide_border=true" alt="GitHub Streak" />
-       </td>
+        </td>
      </tr>
    </table>
 </div>
