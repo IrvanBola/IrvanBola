@@ -1,4 +1,7 @@
-<h1 align="center"><b>Hi, I'm Irvan Bolaños </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+  <span style="color:#FFA500;">Hi, I'm Irvan Bolaños</span>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
 ## **About me**
 
@@ -18,19 +21,18 @@
 
 - **Front-End**:
 
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FFA500)
+  ![React Native](https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=FFA500)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=FFA500)
+  ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FFA500)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFA500)
 
 - **Back-End & Herramientas**:
 
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=FFA500)
+  ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFA500)
+  ![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFA500)
+  ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFA500)
 
 - **Idiomas**:
   - Español (Nativo)
@@ -46,25 +48,24 @@
 <br>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrvanBola&layout=compact&theme=algolia&hide_border=true&langs_count=8" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=IrvanBola&theme=algolia&hide_border=true" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+   <table>
+     <tr>
+       <td align="center">
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrvanBola&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+       </td>
+     </tr>
+     <tr>
+       <td align="center">
+         <img src="https://github-readme-streak-stats.herokuapp.com/?user=IrvanBola&theme=dark&hide_border=true" alt="GitHub Streak" />
+       </td>
+     </tr>
+   </table>
 </div>
 
 <br>
 
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=IrvanBola&style=flat-square&color=blueviolet" />
+  <img src="https://komarev.com/ghpvc/?username=IrvanBola&style=flat-square&color=orange" />
 </div>
 
 ## <b> Social networks..!</b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
