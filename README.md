@@ -69,7 +69,6 @@
 ## 🔧 Proyectos destacados
 
 - **[Aplicación de vales de laboratorio]** – App Android para gestión de vales de química, desarrollada con Java y Android Studio.
-- **[Nombre de otro proyecto]** – Breve descripción de tu proyecto y tecnologías utilizadas (React, Node.js, etc.).
 
 > Puedes agregar aquí enlaces a los repositorios si son públicos.
 
