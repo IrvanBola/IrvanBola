@@ -42,36 +42,30 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
 <br>
 
 <div align="center">
-
-|                                                                     My Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![My Github Stats](https://github-readme-stats.vercel.app/api?username=IrvanBola&show_icons=true&theme=algolia)              |
-| ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IrvanBola&theme=algolia)                    |
-
-|                                                                                                      My Stars                                                                                                       |                                                           Top Languages                                                           |
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=IrvanBola&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=algolia)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrvanBola&langs_count=8&theme=algolia)
-
-![](https://komarev.com/ghpvc/?username=IrvanBola&style=flat-square)
-
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrvanBola&layout=compact&theme=algolia&hide_border=true&langs_count=8" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=IrvanBola&theme=algolia&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
 
------
 
-<br>
-
-
-
-
------
-
-<br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=IrvanBola&style=flat-square&color=blueviolet" />
+</div>
 
 ## <b> Social networks..!</b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
 
